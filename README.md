@@ -13,3 +13,7 @@ My work:
 3. Perform Analysis
 4. Connect database to Power BI
 5. Build a Dashboard
+
+<img width="329" alt="Dashboard 1" src="https://github.com/oladzie/HR-Analytics-Absenteeism/assets/141512778/8f1a81cf-d82a-4080-9543-dedbd5607f0f">
+<img width="756" alt="Dashboard 2" src="https://github.com/oladzie/HR-Analytics-Absenteeism/assets/141512778/dc0b15a0-001c-4695-8f20-9fc234e6ea5d">
+<img width="544" alt="Dashboard 3" src="https://github.com/oladzie/HR-Analytics-Absenteeism/assets/141512778/db0b6421-683b-4340-87cc-5f816fd99c02">
